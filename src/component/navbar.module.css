@@ -1,0 +1,16 @@
+.box{
+    display: flex;
+}
+.h1{
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 40px;
+}
+.button{
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border: 2px solid;
+    padding: 5px;
+}
